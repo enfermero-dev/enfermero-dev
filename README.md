@@ -1,3 +1,3 @@
-# ¡Hola! Soy Marcelo
+# ¡Hi! ¡I'm Marcelo Mendoza!
 
-Primera prueba.
+## Here you can view my current work and resources.
