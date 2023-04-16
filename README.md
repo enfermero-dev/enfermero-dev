@@ -4,13 +4,11 @@ I'm a professional nurse working on a high complexity hospital on Chile. While w
 
 ## Programming Languages
 
-![HTML 5](https://img.shields.io/badge/HTML5-%20-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=%231c2128) ![CSS 3](https://img.shields.io/badge/CSS3-%20-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=%231c2128) ![JavaScript](https://img.shields.io/badge/javascript-%20-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%231c2128) ![python](https://img.shields.io/badge/python-%20-%233776AB?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=%231c2128) ![lua](https://img.shields.io/badge/lua-%20-%232C2D72?style=for-the-badge&logo=lua&logoColor=%232C2D72&labelColor=%231c2128) 
+![HTML 5](https://img.shields.io/badge/HTML5-%20-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=%231c2128) ![CSS 3](https://img.shields.io/badge/CSS3-%20-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=%231c2128) ![JavaScript](https://img.shields.io/badge/javascript-Currently%20Learning-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%231c2128) ![python](https://img.shields.io/badge/python-Currently%20Learning-%233776AB?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=%231c2128) ![lua](https://img.shields.io/badge/lua-%20-%232C2D72?style=for-the-badge&logo=lua&logoColor=%232C2D72&labelColor=%231c2128) ![arduino](https://img.shields.io/badge/arduino-%20-%2300979D?style=for-the-badge&logo=arduino&logoColor=%2300979D&labelColor=%231c2128) ![vb6foroffice](https://img.shields.io/badge/vb6%20for%20office%20apps-%20-%2390c0f0?style=for-the-badge&logo=vb6&logoColor=%2390c0f0&labelColor=%231c2128) ![vb6](https://img.shields.io/badge/vb6-%20-%239cf?style=for-the-badge&logo=vb6&logoColor=%239cf&labelColor=%231c2128)
 
 ## Software 
 
 ![LumaFusion](https://img.shields.io/badge/Luma%20Fusion-%20-%2319164a?style=for-the-badge&logo=loom&logoColor=%2319164a&labelColor=%231c2128) ![Affinity Designer](https://img.shields.io/badge/Affinity%20designer-%20-%231B72BE?style=for-the-badge&logo=affinitydesigner&logoColor=%231B72BE&labelColor=%231c2128) ![Canva](https://img.shields.io/badge/canva-%20-%2300C4CC?style=for-the-badge&logo=canva&logoColor=%2300C4CC&labelColor=%231c2128) ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-%20-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC&labelColor=%231c2128) ![Thunderbird](https://img.shields.io/badge/Thunderbird-%20-%230A84FF?style=for-the-badge&logo=thunderbird&logoColor=%230A84FF&labelColor=%231c2128) ![Discord](https://img.shields.io/badge/Discord-%20-%235865F2?style=for-the-badge&logo=discord&logoColor=%235865F2&labelColor=%231c2128) ![Zoom](https://img.shields.io/badge/zoom-%20-%232D8CFF?style=for-the-badge&logo=zoom&logoColor=%232D8CFF&labelColor=%231c2128) ![Whatsapp](https://img.shields.io/badge/Whatsapp-%20-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=%2325D366&labelColor=%231c2128) ![macOS](https://img.shields.io/badge/macOS%20%2F%20iPad%20Pro-%20-%23fff?style=for-the-badge&logo=apple&logoColor=%23fff&labelColor=%231c2128) ![Windows](https://img.shields.io/badge/windows-%20-%230078D6?style=for-the-badge&logo=windows&logoColor=%230078D6&labelColor=%231c2128)
-
-
 
 ## CMS/LMS administration and manipulation
 
@@ -27,3 +25,7 @@ I'm a professional nurse working on a high complexity hospital on Chile. While w
 ## AWS Services managing
 
 ![Amazon EC2](https://img.shields.io/badge/EC2-AWS-%23FF9900?style=for-the-badge&logo=amazonec2&logoColor=%23FF9900&labelColor=%231c2128)
+
+## Other habilities
+
+![HomeKit](https://img.shields.io/badge/Home%20Automation-%20-%235A6AB1?style=for-the-badge&logo=googlehome&logoColor=%235A6AB1&labelColor=%231c2128)
