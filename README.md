@@ -22,9 +22,9 @@ I'm a professional nurse working at a high complexity hospital in Chile. While w
 
 ![MySQL](https://img.shields.io/badge/MySQL-%20-%234479A1?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=%231c2128)
 
-## AWS Services Managing
+## IaaS
 
-![Amazon EC2](https://img.shields.io/badge/EC2-AWS-%23FF9900?style=for-the-badge&logo=amazonec2&logoColor=%23FF9900&labelColor=%231c2128)
+![Amazon EC2](https://img.shields.io/badge/EC2-AWS-%23FF9900?style=for-the-badge&logo=amazonec2&logoColor=%23FF9900&labelColor=%231c2128) [![AWS Route 53](https://img.shields.io/badge/Route_53-AWS-%231BABD7?style=for-the-badge&logo=amazonroute53&logoColor=%231BABD7&labelColor=%231c2128)](https://aws.amazon.com/route53/)
 
 ## Other Abilities
 
