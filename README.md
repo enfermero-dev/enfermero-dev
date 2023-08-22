@@ -20,7 +20,7 @@ I'm a professional nurse working at a high complexity hospital in Chile. While w
 
 ## Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-%20-%234479A1?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=%231c2128) ![Firestore](https://img.shields.io/badge/Firestore-Google%20Cloud-%234285F4?style=for-the-badge&logo=firebase&logoColor=%234285F4&labelColor=%231c2128) ![MongoDB](https://img.shields.io/badge/MongoDB-%20-%2347A248?style=for-the-badge&logo=mongodb&logoColor=%2347A248&labelColor=%231c2128)
+![MySQL](https://img.shields.io/badge/MySQL-%20-%234479A1?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=%231c2128) ![Firestore](https://img.shields.io/badge/Firestore-Google%20Cloud-%234285F4?style=for-the-badge&logo=firebase&logoColor=%234285F4&labelColor=%231c2128) ![MongoDB](https://img.shields.io/badge/MongoDB-%20-%2347A248?style=for-the-badge&logo=mongodb&logoColor=%2347A248&labelColor=%231c2128) ![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-AWS-%23FF9900?style=for-the-badge&logo=amazondynamodb&logoColor=%23FF9900&labelColor=%231c2128)
 
 ## IaaS
 
