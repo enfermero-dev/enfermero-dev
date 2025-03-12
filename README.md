@@ -1,5 +1,7 @@
 # ¡Hi! ¡I'm Marcelo Mendoza!
 
+[Visit my website marceloandres.cl](https://marceloandres.cl/)
+
 I'm a professional nurse working at a high complexity hospital in Chile. While working, I've developed a keen interest in computational sciences. Over the years, I've undertaken various projects both in my work and personal life. Motivated by this passion, I've embarked on a formal journey to become a **Full Stack Developer** and **System Administrator (Sysadmin)**. Here, you can track my progress and my contributions to the public.
 
 ---
@@ -44,7 +46,7 @@ I am constantly setting up servers, improving and automating processes, and perf
 
 ---
 
-Feel free to connect with me at [mmendozaf@gmail.com](mailto:mmendozaf@gmail.com) to discuss collaboration or share ideas.
+Feel free to visit my website https://marceloandres.cl/ or to connect with me at [mmendozaf@gmail.com](mailto:mmendozaf@gmail.com) to discuss collaboration or share ideas.
 
 **Marcelo Mendoza**  
 Full Stack Developer & Sysadmin  
