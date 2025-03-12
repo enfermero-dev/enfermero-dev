@@ -42,7 +42,7 @@ I'm a professional nurse working at a high complexity hospital in Chile. While w
 
 ## Current Focus
 
-I am constantly setting up servers, improving and automating processes, and performing in-depth editing and customization of WordPress-based websites with a strong SEO focus. I work with IT companies, supporting tasks related to analysis, troubleshooting, and secure environment migration; I monitor and ensure the operational continuity of my servers; and I set up e-commerce solutions for product sales and online scheduling systems. I enjoy continuous learning and eagerly embrace challenges to expand my knowledge.
+I am constantly setting up servers, improving and automating processes, and performing in-depth editing and customization of WordPress-based websites with a strong SEO focus. I work with IT companies, supporting tasks related to analysis, troubleshooting, and secure environment migration; I monitor and ensure the operational continuity of my servers and i love problem solving based on forensics and the use of logs and tools with a preventive approach; and I set up e-commerce solutions for product sales and online scheduling systems. I enjoy continuous learning and eagerly embrace challenges to expand my knowledge.
 
 ---
 
