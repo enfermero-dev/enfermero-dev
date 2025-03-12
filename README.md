@@ -46,7 +46,7 @@ I am constantly setting up servers, improving and automating processes, and perf
 
 ---
 
-Feel free to visit my website https://marceloandres.cl/ or to connect with me at [mmendozaf@gmail.com](mailto:mmendozaf@gmail.com) to discuss collaboration or share ideas.
+Feel free to visit my 'somewhat outdated' website https://marceloandres.cl/ (some apps require change the github subdomain to enfermero-dev) or to connect with me at [mmendozaf@gmail.com](mailto:mmendozaf@gmail.com) to discuss collaboration or share ideas.
 
 **Marcelo Mendoza**  
 Full Stack Developer & Sysadmin  
